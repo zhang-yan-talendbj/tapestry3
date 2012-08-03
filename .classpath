@@ -12,20 +12,23 @@
 	<classpathentry exported="true" kind="lib" path="lib/ext/commons-logging-1.0.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ext/commons-lang-1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ext/bsf-2.3.0.jar"/>
-	<classpathentry kind="lib" path="ext-dist/junit.jar"/>
+	<classpathentry kind="lib" path="E:/bruce/program/tapestry/github/tapestry3/ext-dist/junit-3.8.1.jar" sourcepath="E:/bruce/program/tapestry/github/tapestry3/ext-dist/junit-3.8.1-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ext/commons-beanutils-1.6.1.jar"/>
-	<classpathentry kind="lib" path="examples/Workbench/lib/jCharts-0.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/bruce/program/tapestry/github/tapestry3/ext-dist/jcharts-0.6.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ext/commons-collections-2.1.jar"/>
 	<classpathentry kind="lib" path="lib/ext/commons-fileupload-1.0.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/ext/javassist-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/bruce/program/tapestry/github/tapestry3/ext-dist/javassist-2.5.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ext/commons-digester-1.5.jar"/>
 	<classpathentry kind="lib" path="lib/ext/commons-codec-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/j2ee/geronimo-ejb.jar"/>
 	<classpathentry kind="lib" path="lib/j2ee/jsp-api.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/j2ee/servlet-api.jar"/>
 	<classpathentry kind="lib" path="lib/runtime/log4j-1.2.6.jar"/>
-	<classpathentry kind="lib" path="ext-dist/jdom-1.0.jar"/>
-	<classpathentry kind="lib" path="lib/ext/ognl-2.6.7.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-1.4"/>
+	<classpathentry kind="lib" path="E:/bruce/program/tapestry/github/tapestry3/ext-dist/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/bruce/program/tapestry/github/tapestry3/ext-dist/ognl-2.6.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/j2sdk1.4.2_04"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tapestry-contrib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tapestry-framework"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tapestry-Workbench"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

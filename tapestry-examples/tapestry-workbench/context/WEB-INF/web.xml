@@ -24,6 +24,7 @@
   <servlet-mapping>
   	<servlet-name>workbench</servlet-name>
   	<url-pattern>/app</url-pattern>
+  	<!-- url is http://localhost:8080/app -->
   </servlet-mapping>  
 
   <session-config>

@@ -23,6 +23,7 @@ import org.apache.tapestry.IEngine;
 import org.apache.tapestry.IRequestCycle;
 import org.apache.tapestry.IResourceResolver;
 import org.apache.tapestry.asset.ResourceChecksumSource;
+import org.apache.tapestry.engine.ExpressionEvaluator;
 import org.apache.tapestry.engine.IComponentClassEnhancer;
 import org.apache.tapestry.engine.IComponentMessagesSource;
 import org.apache.tapestry.engine.IEngineService;
@@ -210,4 +211,9 @@ public class MockEngine implements IEngine
     {
         return null;
     }
+
+	public ExpressionEvaluator getExpressionEvaluator() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

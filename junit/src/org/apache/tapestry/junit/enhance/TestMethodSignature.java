@@ -40,7 +40,8 @@ public class TestMethodSignature extends TapestryTestCase
         for (int i = 0; i < m.length; i++)
         {
             if (m[i].getName().equals(methodName))
-                return new MethodSignature(m[i]);
+            	return null;
+//                return new MethodSignature(m[i]);
         }
 
         unreachable();

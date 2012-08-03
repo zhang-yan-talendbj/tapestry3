@@ -77,6 +77,8 @@
                 <configuration>
                     <webAppSourceDirectory>${basedir}/context</webAppSourceDirectory>
                     <contextPath>/</contextPath>
+                    <reload>automatic</reload>
+                    <scanIntervalSeconds>2</scanIntervalSeconds>
                     <systemProperties>
                         <systemProperty>
                             <name>org.apache.tapestry.disable-caching</name>
